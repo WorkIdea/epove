@@ -1,2 +1,0 @@
-# epove
-controle de plantio
